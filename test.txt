@@ -2,4 +2,4 @@ This is my test.txt file for Git Repo.
 
 This is my second line in this file.
 
-This is a change in Branch Testing.
+This is a change in Branch Testing.  i have changed this file.
