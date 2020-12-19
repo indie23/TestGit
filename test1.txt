@@ -1,3 +1,0 @@
-This is test1. txt file.
-
-I changed this file in main branch.
