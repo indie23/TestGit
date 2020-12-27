@@ -1,1 +1,2 @@
 myNewFile
+my new text.
