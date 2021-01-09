@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-My new file content is file 1.
-=======
+
 My new file in the  Testing Branch .. woohoo!!
->>>>>>> Testing
