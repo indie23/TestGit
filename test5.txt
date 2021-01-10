@@ -1,1 +1,5 @@
 this is my file no 5. yes i am an expert in Git.
+
+hello i am git ignore and use me and learn more and be best automation tester.
+
+yes.
